@@ -54,7 +54,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
  
 <h3 align="left">Profile Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekdev01&show_icons=true&locale=en&layout=compact&theme=dark" alt="vivekdev01" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekdev01&&theme=dark" alt="vivekdev01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekdev01&show_icons=true&locale=en&layout=compact&theme=dark" alt="vivekdev01"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekdev01&&theme=dark" alt="vivekdev01"/></p>
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vivekdev01&show_icons=true&locale=en&count_private=true&theme=dark" alt="vivekdev01" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vivekdev01&show_icons=true&locale=en&count_private=true&theme=dark" alt="vivekdev01"/></p>
