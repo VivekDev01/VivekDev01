@@ -1,4 +1,4 @@
-<h1 align="center">Heyo<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, It's Vivek Dev Shah</h1>
+<h1 align="center">Hey<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, It's Vivek Dev Shah</h1>
 <h3 align="center">A Software Development Engineer</h3>
 
 <!-- profile views -->
@@ -11,13 +11,16 @@
 <p align="left"> <a href="https://twitter.com/Vivek_Dev01" target="blank"><img src="https://img.shields.io/twitter/follow/Vivek_Dev01?logo=twitter&style=for-the-badge" alt="vivekdevshah" /></a> </p>
 
 <!-- details -->
-- 🔭 I’m currently pursuing my B.Tech in [IIIT Ranchi](https://iiitranchi.ac.in/)
+- 🔭 I’m currently pursuing my B.Tech(Hons) in [IIIT Ranchi](https://iiitranchi.ac.in/)
 
-- 🌱 I’m currently learning **Competitive Programming, Next.js**
+- 🌱 I’m currently learning **DSA, Next.js**
 
 - 📫 How to reach me **vivek65.ugcs20@iiitranchi.ac.in**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/17cUAuMXdHG4csDYOhYLhhbBctb7Gz5js/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1Ie3sFZeNTMQCx56qoqhoNfeztvhKxDHmggIRuijC9I0/edit?usp=sharing)
+  
+- 📄 See my Expertise here [My Portfolio](https://vivekdevshah-portfolio.netlify.app/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
