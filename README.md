@@ -1,5 +1,5 @@
 <h1 align="center">Hey<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, It's Vivek Dev Shah</h1>
-<h3 align="center">A Software Developer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 <!-- profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekdev01&label=Profile%20views&color=0e75b6&style=flat" alt="vivekdev01" /> </p>
