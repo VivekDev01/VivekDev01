@@ -1,5 +1,6 @@
-<h1 align="center">Hey<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, It's Vivek Dev Shah</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">Hey<img alt="wave" align="center" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="25">, It's Vivek Dev Shah</h3>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" >
+<h4 align="center">A Software Engineer</h4>
 
 <!-- profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekdev01&label=Profile%20views&color=0e75b6&style=flat" alt="vivekdev01" /> </p>
@@ -12,13 +13,9 @@
 
 <!-- details -->
 - 🧑‍💻 I’m a Software Engineer at [Biocliq Ai](https://www.biocliq.ai/)
-
 - 🔭 I’m B.Tech(Hons) graduate in CSE from [IIIT Ranchi](https://iiitranchi.ac.in/)
-
 - 📫 How to reach me **vivek65.ugcs20@iiitranchi.ac.in**
-
 - 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1Ie3sFZeNTMQCx56qoqhoNfeztvhKxDHmggIRuijC9I0/edit?usp=sharing)
-  
 - 🎯 See my Expertise here [My Portfolio](https://vivekdevshah-portfolio.netlify.app/)
 
 
@@ -32,8 +29,10 @@
 <a href="https://stackoverflow.com/users/15674594/vivek-dev-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vivek-dev-shah" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
+<!-- <p align="left">
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -54,7 +53,12 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  -->
+
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,jest,react,javascript,html,css,tailwind,bootstrap,vite,vue,redux,mongodb,nextjs,c,cpp,mysql,docker,nginx,redis,pkl,regex,linux,ubuntu,windows,git,bash,blender,md" />
+</p>
+
  
 <h3 align="left">Profile Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekdev01&show_icons=true&locale=en&layout=compact&theme=dark" alt="vivekdev01"/></p>
