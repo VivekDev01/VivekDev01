@@ -15,7 +15,6 @@
 - 🧑‍💻 I’m a Software Engineer at [Biocliq Ai](https://www.biocliq.ai/)
 - 🔭 I’m B.Tech(Hons) graduate in CSE from [IIIT Ranchi](https://iiitranchi.ac.in/)
 - 📫 How to reach me **vivekdev.shah@gmail.com**
-- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1bhp4UW4nIkG6kiix7hLqbr5LCF4M0X60?usp=drive_link)
 
 
 
