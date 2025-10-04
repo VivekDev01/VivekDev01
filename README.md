@@ -55,7 +55,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  -->
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,jest,react,javascript,html,css,tailwind,bootstrap,vite,vue,redux,mongodb,nextjs,c,cpp,mysql,docker,nginx,redis,pkl,regex,linux,ubuntu,windows,git,bash,blender,md" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,javascript,py,nodejs,express,flask,fastapi,typescript,nextjs,react,html,jquery,css,tailwind,bootstrap,vite,vue,redux,mongodb,mysql,aws,docker,kubernetes,nginx,redis,pkl,regex,linux,ubuntu,windows,git,bash,blender,md,jest" />
 </p>
 
  
