@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/Vivek_Dev01" target="blank"><img src="https://img.shields.io/twitter/follow/Vivek_Dev01?logo=twitter&style=for-the-badge" alt="vivekdevshah" /></a> </p>
 
 <!-- details -->
-- 🧑‍💻 I’m a Software Engineer at [Biocliq Ai](https://www.biocliq.ai/)
+- 🧑‍💻 I’m a Software Engineer at [BorderPlus](https://www.borderplus.co/)
 - 🔭 I’m B.Tech(Hons) graduate in CSE from [IIIT Ranchi](https://iiitranchi.ac.in/)
 - 📫 How to reach me **vivekdev.shah@gmail.com**
 
