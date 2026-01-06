@@ -146,6 +146,7 @@
 <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=notion" title="Notion" alt="Notion" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=markdown" title="Markdown" alt="Markdown" width="48" height="48"/>
 </td>
 </tr>
 </table>
@@ -182,11 +183,11 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="65%" src="https://wakatime.com/share/@VivekDev01/cf237e7a-1786-44d8-907a-0f036f10120a.svg" />
 
-</div>
+</div> -->
 
 ---
  
