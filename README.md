@@ -59,36 +59,37 @@
 
 ## Technology Stack & Tools
 
-<table>
-<tr>
-<td width="30%" align="center"><b>Programming Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" alt="TypeScript" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" width="48" height="48"/></td>
-</tr>
-<tr>
-<td width="30%" align="center"><b>Frontend Development</b></td>
-<td><img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=vue" title="Vue.js" alt="Vue.js" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=sass" title="Sass" alt="Sass" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=jquery" title="jQuery" alt="jQuery" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=blender" title="3D Rendering" alt="3D Rendering" width="48" height="48"/></td>
-</tr>
-<tr>
-<td width="30%" align="center"><b>Backend Development</b></td>
-<td><img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" width="48" height="48"/></td>
-</tr>
-<tr>
-<td width="30%" align="center"><b>Databases</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="48" height="48"/></td>
-</tr>
-<tr>
-<td width="30%" align="center"><b>AI Development Tools</b></td>
-<td><img src="https://skills.syvixor.com/api/icons?i=claudeai" title="Claude AI" alt="Claude AI" width="48" height="48"/> <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" title="Google Gemini" alt="Google Gemini" width="48" height="48"/> <img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt" title="ChatGPT" alt="ChatGPT" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=github" title="GitHub Copilot" alt="GitHub Copilot" width="48" height="48"/> <img src="https://www.cursor.com/brand/icon.svg" title="Cursor" alt="Cursor" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=replit" title="Replit" alt="Replit" width="48" height="48"/> <img src="https://skills.syvixor.com/api/icons?i=lovable" title="Lovable" alt="Lovable" width="48" height="48"/> <img src="https://skills.syvixor.com/api/icons?i=bolt" title="Bolt" alt="Bolt" width="48" height="48"/> <img src="https://skills.syvixor.com/api/icons?i=v0" title="v0" alt="v0" width="48" height="48"/></td>
-</tr>
-<tr>
-<td width="30%" align="center"><b>DevOps & Cloud</b></td>
-<td><img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" alt="Jenkins" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" alt="Google Cloud" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" alt="Netlify" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="Nginx" width="48" height="48"/></td>
-</tr>
-<tr>
-<td width="30%" align="center"><b>Tools & Productivity</b></td>
-<td><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=notion" title="Notion" alt="Notion" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=markdown" title="Markdown" alt="Markdown" width="48" height="48"/></td>
-</tr>
-</table>
+<div align="center">
+
+**Programming Languages**
+
+[![Programming Languages](https://skillicons.dev/icons?i=cpp,python,javascript,typescript,c&perline=12)](https://skillicons.dev)
+
+**Frontend Development**
+
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,bootstrap,sass,vite,jquery,redux,html,css,blender&perline=12)](https://skillicons.dev)
+
+**Backend Development**
+
+[![Backend](https://skillicons.dev/icons?i=flask,fastapi,nodejs,express&perline=12)](https://skillicons.dev)
+
+**Databases**
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite&perline=12)](https://skillicons.dev)
+
+**AI Development Tools**
+
+<img src="https://skills.syvixor.com/api/icons?i=claudeai,gemini,chatgpt,githubcopilot,cursor,replit,lovable,bolt,v0&perline=12" alt="AI Tools"/>
+
+**DevOps & Cloud**
+
+[![DevOps](https://skillicons.dev/icons?i=git,docker,githubactions,jenkins,kubernetes,aws,gcp,vercel,netlify,nginx&perline=12)](https://skillicons.dev)
+
+**Tools & Productivity**
+
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,figma,linux,jira,notion,markdown&perline=12)](https://skillicons.dev)
+
+</div>
 
 ## GitHub Performance Metrics
 
